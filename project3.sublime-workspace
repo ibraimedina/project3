@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"body",
+				"body-bg-lighten"
+			],
+			[
+				"light",
+				"light-color"
+			],
+			[
+				"dark",
+				"dark-color"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nva",
+				"navbar-default-bg"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "list pa",
+		"selected_items":
+		[
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"gits",
+				"Git: Stash"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"f",
+				"Git: Fetch"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"git ss",
+				"Git: Stash"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ibraimedina/git/project3/ionic-project/project3/package.json",
+		"/home/ibraimedina/git/project3/package.json",
+		"/home/ibraimedina/Dropbox/Concursos/IBGE/Materias/Android",
+		"/home/ibraimedina/git/project3/help/studies",
+		"/home/ibraimedina/git/ibra-server/github.io/help/ideas",
+		"/home/ibraimedina/git/ibra-server/github.io/index.html",
+		"/home/ibraimedina/git/ibra-server/github.io/style/style.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/style/bootstrap-less.json",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/style/_bootstrap-custom.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/help/ideas~",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/font-awesome/scss/_variables.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/font-awesome/HELP-US-OUT.txt",
+		"/home/ibraimedina/git/ibra-server/github.io/bower_components/font-awesome/scss/font-awesome.scss",
+		"/home/ibraimedina/git/ibra-server/github.io/style/style.css",
+		"/home/ibraimedina/git/ibra-server/github.io/bower.json",
+		"/home/ibraimedina/git/ibra-server/github.io/style/_font.scss",
+		"/home/ibraimedina/git/ibra-server/origami/index.html",
+		"/home/ibraimedina/git/ibra-server/origami/style/origami.scss",
+		"/home/ibraimedina/git/ibra-server/origami/style/origami.css",
+		"/home/ibraimedina/git/ibra-server/origami/help/config-apache.sh",
+		"/home/ibraimedina/git/ibra-server/origami/help/ideas",
+		"/home/ibraimedina/git/ibra-server/origami/style/bootstrap-less.json",
+		"/home/ibraimedina/git/ibra-server/origami/style/origami-font.css",
+		"/home/ibraimedina/git/ibra-server/origami/css/origami-font.css",
+		"/home/ibraimedina/git/ibra-server/origami/css/origami.scss",
+		"/home/ibraimedina/git/ibra-server/origami/deprecated/bootstrap/config.json",
+		"/home/ibraimedina/git/ibra-server/origami/css/origami.css",
+		"/home/ibraimedina/git/ibra-server/origami/css/origami.less",
+		"/home/ibraimedina/git/ibra-server/origami/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/home/ibraimedina/git/ibra-server/origami/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/home/ibraimedina/git/ibra-server/origami/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/home/ibraimedina/git/ibra-server/origami/help/bower",
+		"/home/ibraimedina/git/ibra-server/origami/fonts/origami-font.css",
+		"/home/ibraimedina/git/ibra-server/origami/lib/bootstrap/config.json",
+		"/home/ibraimedina/git/ibra-server/origami/fonts/origami-config.css",
+		"/home/ibraimedina/git/ibra-server/origami/fonts/work-sans/woff/style.css",
+		"/home/ibraimedina/git/ibra-server/origami/readme.md",
+		"/home/ibraimedina/git/ibra-server/origami/.project",
+		"/home/ibraimedina/git/ibra-server/origami/css/origami.min.css",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/LESS/LESS.sublime-settings",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/LESS/README.md",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/User/LESS.sublime-settings",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/ibraimedina/Desktop/test.js",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/ibraimedina/.config/sublime-text-3/Packages/JSHint Gutter/.jshintrc",
+		"/home/ibraimedina/Desktop/test.sublime-project"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-brand",
+			"brand",
+			"xs",
+			"make-row",
+			"row",
+			"// @import",
+			"thum",
+			".scss",
+			"\");",
+			"url($bootstrap-stylepath + \"",
+			"\");",
+			"\";",
+			"@import \"bootstrap",
+			"collap",
+			"shadow",
+			"gradient",
+			"body",
+			"active",
+			"brand",
+			"@",
+			"\"",
+			"woff/",
+			"../fonts/work-sans/woff/",
+			"font:",
+			"@navbar-height",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@import",
+			"",
+			"\";",
+			"\"../bower_components/bootstrap-sass/assets/stylesheets/",
+			".scss\");",
+			"\");",
+			"@import url($bootstrap-stylepath + \"bootstrap",
+			"$",
+			"",
+			"font-weight:",
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-fetch":
+	{
+		"height": 112.0
+	},
+	"output.git-init":
+	{
+		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "project3.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
