@@ -42,8 +42,6 @@
     "**/extjs/src/**",
     "**/extjs/welcome/**",
     "bower_components/**",
-    
-    // Project 3 specific ignores
     "www/lib/**",
   ],
   "test": [
