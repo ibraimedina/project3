@@ -8,7 +8,7 @@ describe(`Given a currency`, function() {
 		it(`should change for 0.5+0.25+0.1+0.1`, function() {
 			var change = [0.5, 0.25, 0.1, 0.1];
 			expect(Algorithm.bestChange(bill, charge)).toEqual(change);
-		})
+		});
 	});
 
 	describe(`when has a "5" bill and "4.13" charge`, function() {
@@ -17,6 +17,6 @@ describe(`Given a currency`, function() {
 		it(`should change for 0.5+0.25+0.1+0.05`, function() {
 			var change = [0.5, 0.25, 0.1, 0.05];
 			expect(Algorithm.bestChange(bill, charge)).toEqual(change);
-		})
-	})
-})
+		});
+	});
+});

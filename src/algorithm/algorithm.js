@@ -15,13 +15,13 @@ var Algorithm = {
 
 var roundValues = function(values, factor) {
 	var rounded = [];
-	for (v in values) rounded.push(values[v] * factor);
+	for (var v in values) rounded.push(values[v] * factor);
 	return rounded;
 };
 
 var unroundValues = function(values, factor) {
 	var unrounded = [];
-	for (v in values) unrounded.push(values[v] / factor);
+	for (var v in values) unrounded.push(values[v] / factor);
 	return unrounded;
 };
 
@@ -43,6 +43,6 @@ var algorithm = function(paid, charge, availableCoins) {
 		coinsResult.push(availableCoins[availableCoins.length - 1]);
 	}
 	return coinsResult;
-}
+};
 
 module.exports = Algorithm;

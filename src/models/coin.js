@@ -2,7 +2,7 @@ function Coin(){
 	this.value = null;
 	this.volume = null;
 	this.weight = null;
-};
+}
 
 Coin.prototype.density = function() {
 	return this.weight / this.volume;
