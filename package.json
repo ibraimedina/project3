@@ -7,13 +7,6 @@
     "url": "git+ssh://git@github.com/ibraimedina/project3.git"
   },
   "author": "Ibraim Medina",
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.12",
-    "gulp-concat": "^2.2.0",
-    "gulp-rename": "^1.2.0",
-    "gulp-sass": "^3.1.0"
-  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ibraimedina/project3/issues"
@@ -21,6 +14,12 @@
   "homepage": "https://github.com/ibraimedina/project3#readme",
   "devDependencies": {
     "bower": "^1.3.3",
+    "eslint": "^3.14.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
     "gulp-util": "^3.0.7",
     "jasmine": "^2.5.3",
     "jasmine-core": "^2.5.2",
